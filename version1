@@ -1,0 +1,9 @@
+class Sampleproject
+{
+  public static void main(String[] args)
+{
+  System.out.println version1.a("signup & login");
+  System.out.println version1.b("signup & login" + "compose & inbox");
+  System.out.println version1.c("signup & login" + "compose & inbox" + "all mails & sent items");
+}
+}
